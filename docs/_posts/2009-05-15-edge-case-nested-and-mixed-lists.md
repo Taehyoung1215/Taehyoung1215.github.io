@@ -17,7 +17,7 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
 
 ### Ordered -- Unordered -- Ordered
 
-1. ordered item
+1.  ordered item
 2. ordered item 
    * **unordered**
    * **unordered** 
